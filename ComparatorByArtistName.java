@@ -14,7 +14,7 @@ import java.util.Comparator;
 
 /**
  * 
- * @author 3156908
+ * @author XXXXX08
  */
 
 public class ComparatorByArtistName implements Comparator<Media> {
