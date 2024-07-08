@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author 3156908
+ * @author XXXXX08
  */
 
 public class DVDMedia extends Media {
